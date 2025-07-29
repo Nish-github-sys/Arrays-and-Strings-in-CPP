@@ -39,5 +39,17 @@ int main(){
 }
 
 
-     
+/*==========OUTPUTS==========
+Enter size of Array:5
+Enter Marks in Array: 
+Subject1:91
+Subject2:92
+Subject3:93
+Subject4:94
+Subject5:95
+Marks are:
+91 92 93 94 95 
+Sum of Marks is:465
+Average of Marks is:93
+*/
     
