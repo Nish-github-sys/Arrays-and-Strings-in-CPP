@@ -42,3 +42,17 @@ int main(){
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Enter size of Array:5
+Enter Marks in Array: 
+Subject1:95
+Subject2:93
+Subject3:92
+Subject4:91
+Subject5:94
+Marks are:95 93 92 91 94 
+Min is:91
+Max is:95
+*/
