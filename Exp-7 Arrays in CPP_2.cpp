@@ -40,3 +40,29 @@ int n;
 cout<<"Marks not found.";
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Enter size of Array:5
+Enter Marks in Array: 
+Subject1:91
+Subject2:92
+Subject3:93
+Subject4:94
+Subject5:95
+Marks are:91 92 93 94 95 
+Enter marks to be searched:92
+Marks exist. Position:2
+
+
+Enter size of Array:5
+Enter Marks in Array: 
+Subject1:91
+Subject2:92
+Subject3:93
+Subject4:94
+Subject5:95
+Marks are:91 92 93 94 95 
+Enter marks to be searched:99
+Marks not found.
+*/
