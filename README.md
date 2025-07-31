@@ -38,3 +38,20 @@ User can search for specific value of marks that is stored in the array.
 
 Algorithm:
 
+1. Start the program and input the size of the array (n).
+2. Declare an array marks[n] to store the marks of subjects.
+3. Take input of n marks from the user and store them in the array.
+4. Display all the entered marks.
+5. Input the mark to be searched from the user.
+6. Search the array for the entered mark:
+7. If found, display its position and stop.
+8. If not found, display “Marks not found.”
+9. End the program.
+
+# Program-3: Reversing the Array
+
+Inputted array is reversed by using for loop. Reversed array is printed. 
+
+Algorithm:
+
+
