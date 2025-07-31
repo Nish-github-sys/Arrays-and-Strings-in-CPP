@@ -17,3 +17,9 @@ int main(){
 
     return 0; 
 }
+
+
+/*==========OUTPUTS==========
+Enter input for String: nishka
+Entered String is: nishka
+*/
