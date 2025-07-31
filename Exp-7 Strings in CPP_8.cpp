@@ -22,3 +22,10 @@ int main(){
     cout<<"Reversed String is: "<<str_rev;
     return 0; 
 }
+
+
+/*==========OUTPUTS==========
+Enter input for String: program
+Entered String is: program
+Reversed String is: margorp
+*/
