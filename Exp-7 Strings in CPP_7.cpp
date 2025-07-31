@@ -23,3 +23,10 @@ int main(){
 
     return 0;
 }
+
+
+/*==========OUTPUTS==========
+Enter input for String1: Nishka
+Enter input for String2: Ranadive
+Concatenated String is: Nishka Ranadive
+*/
