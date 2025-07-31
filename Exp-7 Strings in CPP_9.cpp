@@ -28,7 +28,7 @@ int main(){
         }
 
         else{
-        cout<<"Not a Palindrome";
+        cout<<"Not a Palindrome.";
         break;
         }
     }
@@ -38,3 +38,16 @@ int main(){
     }
     return 0; 
 }
+
+
+/*==========OUTPUTS==========
+Enter input for String: madam
+Entered String is: madam
+Reversed String is: madam
+String is a Palindrome.
+
+Enter input for String: apple
+Entered String is: apple
+Reversed String is: elppa
+Not a Palindrome.
+*/
