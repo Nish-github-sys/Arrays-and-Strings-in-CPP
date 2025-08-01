@@ -121,4 +121,13 @@ The input string is reversed and then compared with the original string.
 
 Algorithm:
 
+1. Start the program and take a string input from the user.
+2. Display the entered string.
+3. Reverse the string by iterating from the last character to the first and store it in another string.
+4. Display the reversed string.
+5. Check if the original string and reversed string are the same by comparing characters.
+6. Print whether the string is a palindrome or not and end the program.
 
+
+# Conclusion
+We learnt to declare, initialize and perform various operations like reversing, concatenation, palindrome, sum, average, maximum, minimum and searching for arrays and strings.
