@@ -52,6 +52,29 @@ Algorithm:
 
 Inputted array is reversed by using for loop. Reversed array is printed. 
 
+Algorithm: 
+
+1. Declare and initialize the string.
+2. Loop through the string from the last character to the first.
+3. Append each character to a new string.
+4. Print the reversed string.
+
+# Program-4: Sum & Average of Marks
+
+As the input for marks is taken from user, sum and average is calculated by a for loop iterating throughout the array.
+
+Algorithm:
+
+1. Initialize the array with numbers.
+2. Initialize a sum variable to 0.
+3. Loop through each element and add it to sum.
+4. Calculate the average as sum divided by the number of elements.
+5. Print the sum and average.
+
+# Program-5: Minimum and Maximum of Marks
+
+Minimum and Maximum of the entered marks is obtained as an output by sorting the array.
+
 Algorithm:
 
 
