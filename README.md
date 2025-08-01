@@ -77,4 +77,48 @@ Minimum and Maximum of the entered marks is obtained as an output by sorting the
 
 Algorithm:
 
+1. Start the program and input the size of the array n.
+2. Declare an array marks[n] and take n marks as input from the user.
+3. Display all entered marks.
+4. Sort the array in descending order using nested loops.
+5. Print the first element as the maximum mark and the last element as the minimum mark.
+6. End the program.
+
+# Program-6: Taking Input & Output for Strings
+
+We take input from user by declaring a string.
+
+Algorithm:
+
+1. Declare a string variable.
+2. Initialize it with some text.
+3. Print the string value.
+
+# Program-7: Concatenating Strings
+
+Two strings are taken as input from user and using "+" strings are concatenated.
+
+Algorithm:
+
+1. Declare and initialize two string variables.
+2. Use concatenation operator or function to join them.
+3. Print the concatenated string.
+
+# Program-8: Reversing the String
+
+Input string is reversed by using for loop and storing the reversed elements in a new string.
+
+Algorithm:
+
+1. Declare and initialize the string.
+2. Loop through the string from the last character to the first.
+3. Append each character to a new string.
+4. Print the reversed string.
+
+# Program-9: Verifying whether a string is Palindrome or not
+
+The input string is reversed and then compared with the original string.
+
+Algorithm:
+
 
