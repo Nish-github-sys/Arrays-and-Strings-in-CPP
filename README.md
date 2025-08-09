@@ -1,4 +1,4 @@
-# Arrays and Strings in CPP
+# ARRAYS & STRINGS IN CPP
 Aim: To study and implement C++ Arrays and Strings.
 
 Tools Used: VS Code or Programiz online cpp compiler.
